@@ -1,5 +1,5 @@
 # Finger_Reader
-Camera Planted on Ring for Reading Printed Text for the Blind
+Camera placed on Ring for Reading Printed Text for the Blind
 
 
 ![photo_2023-08-15_12-21-23](https://github.com/AmrMohammmed/FInger_Reader/assets/115035697/d1bc66b4-9aeb-4783-858b-8ac4ed4b656c)
