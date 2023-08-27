@@ -13,6 +13,4 @@ Camera placed on Ring for Reading Printed Text for the Blind
 
 # Interface 
 
-![47b70c42-fce4-4a9b-824c-d42c03025330](https://github.com/AmrMohammmed/Finger_Reader/assets/115035697/1b051372-0f66-4056-9c24-83934897616d)
-
 ![a31237d3-2f1b-4c4e-a342-746ab69a7b72](https://github.com/AmrMohammmed/Finger_Reader/assets/115035697/8b5d2561-bf8b-49b2-b185-30d31d3f3879)
